@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanzila-01
-- 👀 I’m interested in AI and uses of machine learning in cybersecurity  
+- 👀 I’m interested in java and uses of machine learning in cybersecurity  
 - 🌱 I’m currently learning Data science and machine learning 
 - 📫 How to reach me tambolitanzila366@gmail.com 
 - 😄 Pronouns: she/her
