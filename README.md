@@ -1,12 +1,12 @@
 # Hi, I'm Tanzila Tamboli 👋
 
-Java Backend Developer | Spring Boot | REST APIs | Node.js
+Software Developer | Spring Boot | REST APIs | Node.js | python
 
 ## 🛠️ Tech Stack
 
 **Backend**
 Java 8+ • Spring Boot • Spring MVC • Node.js
-REST APIs • Spring Security • JPA • Hibernate
+REST APIs • Spring Security • JPA • Hibernate python
 
 **Frontend Exposure**
 React • TypeScript • HTML5 • CSS3 • JavaScript (ES6+)
